@@ -3,4 +3,5 @@ my  First Git Hub
 <br>
 this is feature branch
 <br>
-this main 2
+
+this feature 2
